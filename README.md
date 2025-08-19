@@ -34,3 +34,11 @@ para fortalecer mis conocimientos y aportar en proyectos reales.
 - Adaptabilidad
 - Proactividad y disposición para aprender.
 - Organización y gestión del tiempo.
+
+## HERRAMIENTAS UTILIZADAS 
+
+- Visual Studio Code
+- NetBeans 
+- MySQL Workbench
+- GitHub
+- Entre otros...
