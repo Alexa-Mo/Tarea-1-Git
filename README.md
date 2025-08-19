@@ -26,3 +26,11 @@ para fortalecer mis conocimientos y aportar en proyectos reales.
 - Sistema dental o médico con control de citas y pacientes
 - Video Juegos basico
 - Aplicación de chat basico
+
+## CUALIDADES PERSONALES
+
+- Responsabilidad y compromiso.
+- Capacidad de trabajo en equipo.
+- Adaptabilidad
+- Proactividad y disposición para aprender.
+- Organización y gestión del tiempo.
